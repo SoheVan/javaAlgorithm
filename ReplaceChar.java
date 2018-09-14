@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class ReplaceChar {
 
 	//base on the logic you can return a null value or an empty string
+	// lets add some comment here
 	private String replaceChar(String input, char chOne, char chTwo){
 		String result ="";
 		if(input == null || input.isEmpty()){
